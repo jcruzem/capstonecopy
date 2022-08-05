@@ -1,0 +1,14 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "IBM cloud functions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Hultman",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudant/cloudant": "^4.3.1"
+  }
+}
